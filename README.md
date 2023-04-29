@@ -1,5 +1,5 @@
 <h1 align="center">
- 🦅Crow Bot v2⚙.
+ 🦅Crow Bot v2⚙
 </h1>
 
 ---
