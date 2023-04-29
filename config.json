@@ -1,0 +1,14 @@
+{
+    "Bot_Info": {
+    },
+   "Embed_Defaults": {
+       "EmbedColour": "RANDOM"
+   },
+   "Giveaway_Options": {
+    "giveawayManagerID": "Gw-Manager-Id",
+    "giveawayRoleID": "Gw-Role-Id",
+    "giveawayMention": false,
+    "showMention": true,
+    "hostedBy": true
+    }
+}

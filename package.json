@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "discord-backup": "^3.0.1",
+    "discord-button-pages": "^1.1.9",
+    "discord-buttons": "^4.0.0-deprecated",
+    "discord-logs": "^2.0.1",
+    "discord.js": "^12.0.0",
+    "dotenv": "^16.0.0",
+    "ms": "^2.1.3",
+    "quick.db": "^7.1.3",
+    "randomstring": "^1.2.2",
+    "request": "^2.88.2"
+  }
+}
