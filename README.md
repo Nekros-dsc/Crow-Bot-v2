@@ -23,7 +23,7 @@
 
 # <a id="config"></a>⚙ » Config
 
-If you want to change the config, open up [config.json](https://discord.gg/zM6ZN9UfRs) and locate it at the top. There you can configure the following:
+If you want to change the config, open up [.env](https://discord.gg/zM6ZN9UfRs) and locate it at the top. There you can configure the following:
 
 ```js
 TOKEN= 'Put-Token-Here'
